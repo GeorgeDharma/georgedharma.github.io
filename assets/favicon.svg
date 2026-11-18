@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 112 112">
+  <title>George Dharma</title>
+  <style>@media (prefers-color-scheme: dark) { .paper { fill: #242B33 } .ink { fill: #F6F2EB } }</style>
+  <rect class="paper" width="112" height="112" rx="9" fill="#F6F2EB"/>
+  <path class="ink" fill="#242B33" transform="translate(6 6)"
+        d="M0 0H68L0 28Z M73 0H100V67Z M100 72V100H32Z M0 33L27 100H0Z"/>
+</svg>
