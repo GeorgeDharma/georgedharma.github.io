@@ -1,0 +1,10 @@
+French listening audio
+
+These MP3 recordings were synthesized locally from the original French listening scripts written for this course. They use the Piper fr_FR-siwis-medium French voice. Speech rate was adjusted for each learning level. The model and source recordings are not distributed in this directory.
+
+Voice and model card: https://huggingface.co/rhasspy/piper-voices/tree/main/fr/fr_FR/siwis/medium
+
+Training dataset: The SIWIS French Speech Synthesis Database (2016), Junichi Yamagishi, Pierre-Edouard Honnet, Philip Garner and Alexandros Lazaridis. University of Edinburgh, School of Informatics. https://doi.org/10.7488/ds/1705
+Dataset license: Creative Commons Attribution 4.0 International, https://creativecommons.org/licenses/by/4.0/
+
+Speech synthesis software: Piper, https://github.com/OHF-Voice/piper1-gpl
