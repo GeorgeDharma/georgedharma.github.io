@@ -1,0 +1,418 @@
+French recording credits
+
+The licenses below apply to the named recordings and excerpts. The full performances contain the 1668 public-domain text by Jean de La Fontaine. The English renderings and listening notes were written for this course.
+
+Bonjour.
+assets/voices/bonjour-paris.mp3
+Fr-bonjour.ogg · Vion Nicolas · Wikimedia Commons · CC BY 2.0 FR. Converted to MP3.
+Source: https://commons.wikimedia.org/wiki/File:Fr-bonjour.ogg
+Audio license: https://creativecommons.org/licenses/by/2.0/fr/deed.en
+
+À bientôt !
+assets/voices/a-bientot.mp3
+Fr-à bientôt !.ogg · Vion Nicolas · Wikimedia Commons · CC BY 2.0 FR. Converted to MP3.
+Source: https://commons.wikimedia.org/wiki/File:Fr-%C3%A0_bient%C3%B4t_!.ogg
+Audio license: https://creativecommons.org/licenses/by/2.0/fr/deed.en
+
+Ça va.
+assets/voices/ca-va-quebec.mp3
+Qc-ça va.ogg · Fête · Wikimedia Commons · CC BY-SA 3.0. Converted to MP3.
+Source: https://commons.wikimedia.org/wiki/File:Qc-%C3%A7a_va.ogg
+Audio license: https://creativecommons.org/licenses/by-sa/3.0
+
+Au revoir.
+assets/voices/au-revoir-quebec.mp3
+Qc-Au revoir.oga · Azio · Wikimedia Commons · CC BY-SA 3.0. Converted to MP3.
+Source: https://commons.wikimedia.org/wiki/File:Qc-Au_revoir.oga
+Audio license: https://creativecommons.org/licenses/by-sa/3.0/
+
+Un café.
+assets/voices/cafe-paris.mp3
+Fr-café.ogg · Vion Nicolas · Wikimedia Commons · CC BY 2.0 FR. Converted to MP3.
+Source: https://commons.wikimedia.org/wiki/File:Fr-caf%C3%A9.ogg
+Audio license: https://creativecommons.org/licenses/by/2.0/fr/deed.en
+
+Café.
+assets/voices/cafe-quebec.mp3
+Qc-café.wav · Guillaumelandry · Wikimedia Commons · CC BY-SA 4.0. Converted to MP3.
+Source: https://commons.wikimedia.org/wiki/File:Qc-caf%C3%A9.wav
+Audio license: https://creativecommons.org/licenses/by-sa/4.0
+
+Quelle heure est-il ?
+assets/voices/heure-paris.mp3
+Fr-quelle-heure-est‐il.ogg · Vion Nicolas · Wikimedia Commons · CC BY 2.0 FR. Converted to MP3.
+Source: https://commons.wikimedia.org/wiki/File:Fr-quelle-heure-est%E2%80%90il.ogg
+Audio license: https://creativecommons.org/licenses/by/2.0/fr/deed.en
+
+À la maison.
+assets/voices/chez-moi.mp3
+Fr-à la maison.ogg · Vion Nicolas · Wikimedia Commons · CC BY 2.0 FR. Converted to MP3.
+Source: https://commons.wikimedia.org/wiki/File:Fr-%C3%A0_la_maison.ogg
+Audio license: https://creativecommons.org/licenses/by/2.0/fr/deed.en
+
+Bonne fête !
+assets/voices/bonne-fete.mp3
+Qc-bonne fête-standard.ogg · Fête · Wikimedia Commons · CC BY-SA 3.0. Converted to MP3.
+Source: https://commons.wikimedia.org/wiki/File:Qc-bonne_f%C3%AAte-standard.ogg
+Audio license: https://creativecommons.org/licenses/by-sa/3.0
+
+Une paire de chaussures.
+assets/voices/paire-chaussures.mp3
+Fr-une paire de chaussures.ogg · Vion Nicolas · Wikimedia Commons · CC BY 2.0 FR. Converted to MP3.
+Source: https://commons.wikimedia.org/wiki/File:Fr-une_paire_de_chaussures.ogg
+Audio license: https://creativecommons.org/licenses/by/2.0/fr/deed.en
+
+Aller magasiner.
+assets/voices/magasiner.mp3
+Aller magasiner.ogg · DenisdeShawi · Wikimedia Commons · CC BY-SA 4.0. Converted to MP3.
+Source: https://commons.wikimedia.org/wiki/File:Aller_magasiner.ogg
+Audio license: https://creativecommons.org/licenses/by-sa/4.0
+
+Je sais pas.
+assets/voices/conversational-negative.mp3
+Qc-Je sais pas.ogg · 馮輝 · Wikimedia Commons · CC BY-SA 3.0. Converted to MP3.
+Source: https://commons.wikimedia.org/wiki/File:Qc-Je_sais_pas.ogg
+Audio license: https://creativecommons.org/licenses/by-sa/3.0
+
+Le français.
+assets/voices/le-francais-lac.mp3
+Fr-français-fr-CA-Québec-(Lac-Saint-Jean).oga · Jimmy Lavoie · Wikimedia Commons · CC BY-SA 3.0. Converted to MP3.
+Source: https://commons.wikimedia.org/wiki/File:Fr-fran%C3%A7ais-fr-CA-Qu%C3%A9bec-(Lac-Saint-Jean).oga
+Audio license: https://creativecommons.org/licenses/by-sa/3.0
+
+À propos de quelque chose.
+assets/voices/a-propos.mp3
+Fr-à propos de quelque chose.ogg · Vion Nicolas · Wikimedia Commons · CC BY 2.0 FR. Converted to MP3.
+Source: https://commons.wikimedia.org/wiki/File:Fr-%C3%A0_propos_de_quelque_chose.ogg
+Audio license: https://creativecommons.org/licenses/by/2.0/fr/deed.en
+
+Temps des fêtes.
+assets/voices/fetes.mp3
+Qc-temps des fêtes.ogg · Fête · Wikimedia Commons · CC BY-SA 3.0. Converted to MP3.
+Source: https://commons.wikimedia.org/wiki/File:Qc-temps_des_f%C3%AAtes.ogg
+Audio license: https://creativecommons.org/licenses/by-sa/3.0
+
+L’assurance chômage.
+assets/voices/assurance.mp3
+Fr-BE-BW--l’assurance chômage.ogg · Moyogo · Wikimedia Commons · CC BY-SA 4.0. Converted to MP3.
+Source: https://commons.wikimedia.org/wiki/File:Fr-BE-BW--l%E2%80%99assurance_ch%C3%B4mage.ogg
+Audio license: https://creativecommons.org/licenses/by-sa/4.0
+
+Avoir du guts.
+assets/voices/avoir-du-guts.mp3
+Fr-CA-avoir du guts.oga · Grafik.muzik · Wikimedia Commons · CC0. Converted to MP3.
+Source: https://commons.wikimedia.org/wiki/File:Fr-CA-avoir_du_guts.oga
+Audio license: https://creativecommons.org/publicdomain/zero/1.0/deed.en
+
+Quand le chat n’est pas là, les souris dansent.
+assets/voices/chat-souris.mp3
+Fr-quand le chat n'est pas là, les souris dansent.ogg · Pamputt · Wikimedia Commons · CC0. Converted to MP3.
+Source: https://commons.wikimedia.org/wiki/File:Fr-quand_le_chat_n%27est_pas_l%C3%A0,_les_souris_dansent.ogg
+Audio license: https://creativecommons.org/publicdomain/zero/1.0/deed.en
+
+Lâche pas la patate !
+assets/voices/patate.mp3
+Qc-lâche pas la patate.ogg · Fête · Wikimedia Commons · CC BY-SA 3.0. Converted to MP3.
+Source: https://commons.wikimedia.org/wiki/File:Qc-l%C3%A2che_pas_la_patate.ogg
+Audio license: https://creativecommons.org/licenses/by-sa/3.0
+
+À certains égards.
+assets/voices/certains-egards.mp3
+Fr-à certains égards.ogg · Vion Nicolas · Wikimedia Commons · CC BY 2.0 FR. Converted to MP3.
+Source: https://commons.wikimedia.org/wiki/File:Fr-%C3%A0_certains_%C3%A9gards.ogg
+Audio license: https://creativecommons.org/licenses/by/2.0/fr/deed.en
+
+Qu’est-ce que c’est ?
+assets/voices/tatoeba-473636.mp3
+Tatoeba recording 473636 by vlecomte, CC BY-SA 4.0. French sentence 3094 by TRANG, CC BY 2.0 FR. Original MP3.
+Source: https://tatoeba.org/en/sentences/show/3094
+Audio license: https://creativecommons.org/licenses/by-sa/4.0/
+French sentence license: https://creativecommons.org/licenses/by/2.0/fr/
+
+Avez-vous chaud ?
+assets/voices/tatoeba-474004.mp3
+Tatoeba recording 474004 by vlecomte, CC BY-SA 4.0. French sentence 6683692 by GB3, CC BY 2.0 FR. Original MP3.
+Source: https://tatoeba.org/en/sentences/show/6683692
+Audio license: https://creativecommons.org/licenses/by-sa/4.0/
+French sentence license: https://creativecommons.org/licenses/by/2.0/fr/
+
+Restez, s’il vous plaît.
+assets/voices/tatoeba-474936.mp3
+Tatoeba recording 474936 by vlecomte, CC BY-SA 4.0. French sentence 6463144 by Aiji, CC BY 2.0 FR. Original MP3.
+Source: https://tatoeba.org/en/sentences/show/6463144
+Audio license: https://creativecommons.org/licenses/by-sa/4.0/
+French sentence license: https://creativecommons.org/licenses/by/2.0/fr/
+
+On peut parler français ?
+assets/voices/tatoeba-472302.mp3
+Tatoeba recording 472302 by vlecomte, CC BY-SA 4.0. French sentence 5434807 by pititnatole, CC BY 2.0 FR. Original MP3.
+Source: https://tatoeba.org/en/sentences/show/5434807
+Audio license: https://creativecommons.org/licenses/by-sa/4.0/
+French sentence license: https://creativecommons.org/licenses/by/2.0/fr/
+
+Soyez à l’heure.
+assets/voices/tatoeba-473174.mp3
+Tatoeba recording 473174 by vlecomte, CC BY-SA 4.0. French sentence 6468597 by Aiji, CC BY 2.0 FR. Original MP3.
+Source: https://tatoeba.org/en/sentences/show/6468597
+Audio license: https://creativecommons.org/licenses/by-sa/4.0/
+French sentence license: https://creativecommons.org/licenses/by/2.0/fr/
+
+Je voudrais étudier le français.
+assets/voices/tatoeba-472285.mp3
+Tatoeba recording 472285 by vlecomte, CC BY-SA 4.0. French sentence 5391239 by Aiji, CC BY 2.0 FR. Original MP3.
+Source: https://tatoeba.org/en/sentences/show/5391239
+Audio license: https://creativecommons.org/licenses/by-sa/4.0/
+French sentence license: https://creativecommons.org/licenses/by/2.0/fr/
+
+Je n’étais pas là.
+assets/voices/tatoeba-472920.mp3
+Tatoeba recording 472920 by vlecomte, CC BY-SA 4.0. French sentence 4681702 by sacredceltic, CC BY 2.0 FR. Original MP3.
+Source: https://tatoeba.org/en/sentences/show/4681702
+Audio license: https://creativecommons.org/licenses/by-sa/4.0/
+French sentence license: https://creativecommons.org/licenses/by/2.0/fr/
+
+Il me faut du temps.
+assets/voices/tatoeba-474580.mp3
+Tatoeba recording 474580 by vlecomte, CC BY-SA 4.0. French sentence 2482626 by sacredceltic, CC BY 2.0 FR. Original MP3.
+Source: https://tatoeba.org/en/sentences/show/2482626
+Audio license: https://creativecommons.org/licenses/by-sa/4.0/
+French sentence license: https://creativecommons.org/licenses/by/2.0/fr/
+
+Je suis en train de travailler.
+assets/voices/tatoeba-474627.mp3
+Tatoeba recording 474627 by vlecomte, CC BY-SA 4.0. French sentence 3669707 by sacredceltic, CC BY 2.0 FR. Original MP3.
+Source: https://tatoeba.org/en/sentences/show/3669707
+Audio license: https://creativecommons.org/licenses/by-sa/4.0/
+French sentence license: https://creativecommons.org/licenses/by/2.0/fr/
+
+Comment s’est passé le cours de français ?
+assets/voices/tatoeba-472065.mp3
+Tatoeba recording 472065 by vlecomte, CC BY-SA 4.0. French sentence 393406 by qdii, CC BY 2.0 FR. Original MP3.
+Source: https://tatoeba.org/en/sentences/show/393406
+Audio license: https://creativecommons.org/licenses/by-sa/4.0/
+French sentence license: https://creativecommons.org/licenses/by/2.0/fr/
+
+Puis-je y aller ?
+assets/voices/tatoeba-472827.mp3
+Tatoeba recording 472827 by vlecomte, CC BY-SA 4.0. French sentence 2163960 by sacredceltic, CC BY 2.0 FR. Original MP3.
+Source: https://tatoeba.org/en/sentences/show/2163960
+Audio license: https://creativecommons.org/licenses/by-sa/4.0/
+French sentence license: https://creativecommons.org/licenses/by/2.0/fr/
+
+C’est ce qu’il me faut.
+assets/voices/tatoeba-474579.mp3
+Tatoeba recording 474579 by vlecomte, CC BY-SA 4.0. French sentence 2482625 by sacredceltic, CC BY 2.0 FR. Original MP3.
+Source: https://tatoeba.org/en/sentences/show/2482625
+Audio license: https://creativecommons.org/licenses/by-sa/4.0/
+French sentence license: https://creativecommons.org/licenses/by/2.0/fr/
+
+L’avez-vous emporté ?
+assets/voices/tatoeba-473847.mp3
+Tatoeba recording 473847 by vlecomte, CC BY-SA 4.0. French sentence 2769047 by Rovo, CC BY 2.0 FR. Original MP3.
+Source: https://tatoeba.org/en/sentences/show/2769047
+Audio license: https://creativecommons.org/licenses/by-sa/4.0/
+French sentence license: https://creativecommons.org/licenses/by/2.0/fr/
+
+Où en étais-je ?
+assets/voices/tatoeba-474635.mp3
+Tatoeba recording 474635 by vlecomte, CC BY-SA 4.0. French sentence 4234726 by sacredceltic, CC BY 2.0 FR. Original MP3.
+Source: https://tatoeba.org/en/sentences/show/4234726
+Audio license: https://creativecommons.org/licenses/by-sa/4.0/
+French sentence license: https://creativecommons.org/licenses/by/2.0/fr/
+
+Pourquoi étudie-t-on le français ?
+assets/voices/tatoeba-473201.mp3
+Tatoeba recording 473201 by vlecomte, CC BY-SA 4.0. French sentence 6572656 by GB3, CC BY 2.0 FR. Original MP3.
+Source: https://tatoeba.org/en/sentences/show/6572656
+Audio license: https://creativecommons.org/licenses/by-sa/4.0/
+French sentence license: https://creativecommons.org/licenses/by/2.0/fr/
+
+J’ai pris rendez-vous chez le docteur lundi à 14 h 30.
+assets/voices/tatoeba-473184.mp3
+Tatoeba recording 473184 by vlecomte, CC BY-SA 4.0. French sentence 6474230 by Aiji, CC BY 2.0 FR. Original MP3.
+Source: https://tatoeba.org/en/sentences/show/6474230
+Audio license: https://creativecommons.org/licenses/by-sa/4.0/
+French sentence license: https://creativecommons.org/licenses/by/2.0/fr/
+
+Ma femme et moi avons fait nos achats de Noël en octobre.
+assets/voices/tatoeba-472045.mp3
+Tatoeba recording 472045 by vlecomte, CC BY-SA 4.0. French sentence 5680628 by Yemana, CC BY 2.0 FR. Original MP3.
+Source: https://tatoeba.org/en/sentences/show/5680628
+Audio license: https://creativecommons.org/licenses/by-sa/4.0/
+French sentence license: https://creativecommons.org/licenses/by/2.0/fr/
+
+Nos serveurs seront hors ligne le 20 octobre pour la maintenance prévue.
+assets/voices/tatoeba-472055.mp3
+Tatoeba recording 472055 by vlecomte, CC BY-SA 4.0. French sentence 6668658 by Aiji, CC BY 2.0 FR. Original MP3.
+Source: https://tatoeba.org/en/sentences/show/6668658
+Audio license: https://creativecommons.org/licenses/by-sa/4.0/
+French sentence license: https://creativecommons.org/licenses/by/2.0/fr/
+
+Tom savait qu’il ne serait pas en mesure de terminer le rapport d’ici 14 h 30.
+assets/voices/tatoeba-538700.mp3
+Tatoeba recording 538700 by vlecomte, CC BY-SA 4.0. French sentence 5800968 by Aiji, CC BY 2.0 FR. Original MP3.
+Source: https://tatoeba.org/en/sentences/show/5800968
+Audio license: https://creativecommons.org/licenses/by-sa/4.0/
+French sentence license: https://creativecommons.org/licenses/by/2.0/fr/
+
+Maître Corbeau, sur un arbre perché, tenait en son bec un fromage.
+assets/voices/corbeau-recitatif.mp3
+Le Corbeau et le Renard by Jean de La Fontaine. Performed by Laurie Willième for Thalie Envolée. Artistic direction by Julie Verleye, recording and mixing by Matthieu Van Dyck, production by Compagnie Artaban. Audio licensed under CC BY-SA 4.0. Excerpt from 9.5 to 15.7 seconds, converted to mono MP3.
+Source: https://commons.wikimedia.org/wiki/File:Jean_de_La_Fontaine_-_Le_Corbeau_et_le_Renard_-_Thalie_Envol%C3%A9e.wav
+Audio license: https://creativecommons.org/licenses/by-sa/4.0/
+French text: https://www.institutdefrance.fr/publications/le-corbeau-et-le-renard/
+
+Apprenez que tout flatteur vit aux dépens de celui qui l’écoute.
+assets/voices/corbeau-morale.mp3
+Le Corbeau et le Renard by Jean de La Fontaine. Performed by Laurie Willième for Thalie Envolée. Artistic direction by Julie Verleye, recording and mixing by Matthieu Van Dyck, production by Compagnie Artaban. Audio licensed under CC BY-SA 4.0. Excerpt from 58.5 to 63.2 seconds, converted to mono MP3.
+Source: https://commons.wikimedia.org/wiki/File:Jean_de_La_Fontaine_-_Le_Corbeau_et_le_Renard_-_Thalie_Envol%C3%A9e.wav
+Audio license: https://creativecommons.org/licenses/by-sa/4.0/
+French text: https://www.institutdefrance.fr/publications/le-corbeau-et-le-renard/
+
+La raison du plus fort est toujours la meilleure. Nous l’allons montrer tout à l’heure.
+assets/voices/loup-ouverture.mp3
+Le Loup et l’Agneau by Jean de La Fontaine. Performed by Julie Verleye for Thalie Envolée. Artistic direction by Arnaud Sottiaux, recording and mixing by Matthieu Van Dyck, production by Compagnie Artaban. Audio licensed under CC BY-SA 4.0. Excerpt from 7.8 to 13.8 seconds, converted to mono MP3.
+Source: https://commons.wikimedia.org/wiki/File:Jean_de_La_Fontaine_-_Le_Loup_et_l%E2%80%99Agneau_-_Thalie_Envol%C3%A9e.wav
+Audio license: https://creativecommons.org/licenses/by-sa/4.0/
+French text: https://www.institutdefrance.fr/publications/le-loup-et-lagneau/
+
+Comment l’aurais-je fait, si je n’étais pas né ? reprit l’Agneau. Je tette encor ma mère.
+assets/voices/agneau-reponse.mp3
+Le Loup et l’Agneau by Jean de La Fontaine. Performed by Julie Verleye for Thalie Envolée. Artistic direction by Arnaud Sottiaux, recording and mixing by Matthieu Van Dyck, production by Compagnie Artaban. Audio licensed under CC BY-SA 4.0. Excerpt from 61.2 to 66.4 seconds, converted to mono MP3.
+Source: https://commons.wikimedia.org/wiki/File:Jean_de_La_Fontaine_-_Le_Loup_et_l%E2%80%99Agneau_-_Thalie_Envol%C3%A9e.wav
+Audio license: https://creativecommons.org/licenses/by-sa/4.0/
+French text: https://www.institutdefrance.fr/publications/le-loup-et-lagneau/
+
+C’est pas systématique non plus. Chaque mot a une prononciation différente.
+assets/voices/quebec-phrase.mp3
+Exemple de mon parlé québécois by Q-rieux, CC BY-SA 3.0. Excerpt from 1.2 to 5.1 seconds, converted to mono MP3.
+Source: https://commons.wikimedia.org/wiki/File:Exemple_de_mon_parl%C3%A9_qu%C3%A9b%C3%A9cois.ogg
+Audio license: https://creativecommons.org/licenses/by-sa/3.0/
+
+Bref, voici un enregistrement du mot « tête ».
+assets/voices/quebec-tete.mp3
+Exemple de mon parlé québécois by Q-rieux, CC BY-SA 3.0. Excerpt from 8.5 to 11.8 seconds, converted to mono MP3.
+Source: https://commons.wikimedia.org/wiki/File:Exemple_de_mon_parl%C3%A9_qu%C3%A9b%C3%A9cois.ogg
+Audio license: https://creativecommons.org/licenses/by-sa/3.0/
+
+rue
+assets/voices/shtooka-rue.mp3
+“rue” · Vion Nicolas, Base Audio Libre de Mots Français, Shtooka Project. Original MP3 recording dated 2007-09-02. Copyright Vion Nicolas 2006–2007. CC BY 2.0 FR.
+Source: https://fsi-languages.yojik.eu/audiocollections/detailled/fra-balm-voc/mp3/fra-c7a47d48.mp3
+Audio license: https://creativecommons.org/licenses/by/2.0/fr/
+
+roue
+assets/voices/shtooka-roue.mp3
+“roue” · Vion Nicolas, Base Audio Libre de Mots Français, Shtooka Project. Original MP3 recording dated 2007-09-01. Copyright Vion Nicolas 2006–2007. CC BY 2.0 FR.
+Source: https://fsi-languages.yojik.eu/audiocollections/detailled/fra-balm-voc/mp3/fra-cc692372.mp3
+Audio license: https://creativecommons.org/licenses/by/2.0/fr/
+
+banc
+assets/voices/shtooka-banc.mp3
+“banc” · Vion Nicolas, Base Audio Libre de Mots Français, Shtooka Project. Original MP3 recording dated 2007-09-01. Copyright Vion Nicolas 2006–2007. CC BY 2.0 FR.
+Source: https://fsi-languages.yojik.eu/audiocollections/detailled/fra-balm-voc/mp3/fra-d6bb3748.mp3
+Audio license: https://creativecommons.org/licenses/by/2.0/fr/
+
+bon
+assets/voices/shtooka-bon.mp3
+“bon” · Vion Nicolas, Base Audio Libre de Mots Français, Shtooka Project. Original MP3 recording dated 2006-06-10. Copyright Vion Nicolas 2006–2007. CC BY 2.0 FR.
+Source: https://fsi-languages.yojik.eu/audiocollections/detailled/fra-balm-voc/mp3/fra-fc7dfd6b.mp3
+Audio license: https://creativecommons.org/licenses/by/2.0/fr/
+
+bain
+assets/voices/shtooka-bain.mp3
+“bain” · Vion Nicolas, Base Audio Libre de Mots Français, Shtooka Project. Original MP3 recording dated 2007-09-01. Copyright Vion Nicolas 2006–2007. CC BY 2.0 FR.
+Source: https://fsi-languages.yojik.eu/audiocollections/detailled/fra-balm-voc/mp3/fra-e74bdd32.mp3
+Audio license: https://creativecommons.org/licenses/by/2.0/fr/
+
+joue
+assets/voices/shtooka-joue.mp3
+“joue” · Vion Nicolas, Base Audio Libre de Mots Français, Shtooka Project. Original MP3 recording dated 2007-09-02. Copyright Vion Nicolas 2006–2007. CC BY 2.0 FR.
+Source: https://fsi-languages.yojik.eu/audiocollections/detailled/fra-balm-voc/mp3/fra-59c45c02.mp3
+Audio license: https://creativecommons.org/licenses/by/2.0/fr/
+
+chou
+assets/voices/shtooka-chou.mp3
+“chou” · Vion Nicolas, Base Audio Libre de Mots Français, Shtooka Project. Original MP3 recording dated 2007-09-02. Copyright Vion Nicolas 2006–2007. CC BY 2.0 FR.
+Source: https://fsi-languages.yojik.eu/audiocollections/detailled/fra-balm-voc/mp3/fra-8c19efb2.mp3
+Audio license: https://creativecommons.org/licenses/by/2.0/fr/
+
+riz
+assets/voices/shtooka-riz.mp3
+“riz” · Vion Nicolas, Base Audio Libre de Mots Français, Shtooka Project. Original MP3 recording dated 2007-09-02. Copyright Vion Nicolas 2006–2007. CC BY 2.0 FR.
+Source: https://fsi-languages.yojik.eu/audiocollections/detailled/fra-balm-voc/mp3/fra-acdb2de0.mp3
+Audio license: https://creativecommons.org/licenses/by/2.0/fr/
+
+lit
+assets/voices/shtooka-lit.mp3
+“lit” · Vion Nicolas, Base Audio Libre de Mots Français, Shtooka Project. Original MP3 recording dated 2007-09-02. Copyright Vion Nicolas 2006–2007. CC BY 2.0 FR.
+Source: https://fsi-languages.yojik.eu/audiocollections/detailled/fra-balm-voc/mp3/fra-5ddb8e9d.mp3
+Audio license: https://creativecommons.org/licenses/by/2.0/fr/
+
+peu
+assets/voices/shtooka-peu.mp3
+“peu” · Vion Nicolas, Base Audio Libre de Mots Français, Shtooka Project. Original MP3 recording dated 2007-09-01. Copyright Vion Nicolas 2006–2007. CC BY 2.0 FR.
+Source: https://fsi-languages.yojik.eu/audiocollections/detailled/fra-balm-voc/mp3/fra-9355ab13.mp3
+Audio license: https://creativecommons.org/licenses/by/2.0/fr/
+
+peur
+assets/voices/shtooka-peur.mp3
+“peur” · Vion Nicolas, Base Audio Libre de Mots Français, Shtooka Project. Original MP3 recording dated 2007-09-01. Copyright Vion Nicolas 2006–2007. CC BY 2.0 FR.
+Source: https://fsi-languages.yojik.eu/audiocollections/detailled/fra-balm-voc/mp3/fra-e824ebe8.mp3
+Audio license: https://creativecommons.org/licenses/by/2.0/fr/
+
+pré
+assets/voices/shtooka-pre.mp3
+“pré” · Vion Nicolas, Base Audio Libre de Mots Français, Shtooka Project. Original MP3 recording dated 2007-09-02. Copyright Vion Nicolas 2006–2007. CC BY 2.0 FR.
+Source: https://fsi-languages.yojik.eu/audiocollections/detailled/fra-balm-voc/mp3/fra-52d35c7f.mp3
+Audio license: https://creativecommons.org/licenses/by/2.0/fr/
+
+prêt
+assets/voices/shtooka-pret.mp3
+“prêt” · Vion Nicolas, Base Audio Libre de Mots Français, Shtooka Project. Original MP3 recording dated 2007-09-06. Copyright Vion Nicolas 2006–2007. CC BY 2.0 FR.
+Source: https://fsi-languages.yojik.eu/audiocollections/detailled/fra-balm-voc/mp3/fra-6eafb69a.mp3
+Audio license: https://creativecommons.org/licenses/by/2.0/fr/
+
+— Comment vous appelez-vous ?
+— Je m’appelle Franck Guilloteau.
+— Et vous êtes d’où ?
+— Je suis de Paris.
+— Et qu’est-ce que vous faites dans la vie ?
+— Je suis chef d’entreprise.
+assets/voices/ut-franck-introduction.mp3
+Meeting Franck. Français interactif, by Karen Kelton, Nancy Guilloteau and Carl Blyth, University of Texas at Austin (COERLL/LAITS). Interviewee: Franck Guilloteau. Interviewer: Nancy Guilloteau. Audio recording: Mike Heidenreich. Original video: 01_int_fr_jemepres.mp4. Continuous audio from 0.69 to 13.18 seconds, extracted and converted to mono MP3. CC BY 3.0.
+Source: https://www.laits.utexas.edu/fi/fivideo/chapitre-01-interviews-les-fran%c3%a7ais-%c3%a0-austin-franck-je-me-pr%c3%a9sente/
+Audio license: https://creativecommons.org/licenses/by/3.0/
+
+— Et le week-end prochain, qu’est-ce que vous allez faire ?
+— Je vais sortir avec mon mari David au restaurant, je vais faire des promenades avec Sébastien et je vais certainement nager.
+assets/voices/ut-virginie-weekend.mp3
+Virginie’s weekend plans. Français interactif, by Karen Kelton, Nancy Guilloteau and Carl Blyth, University of Texas at Austin (COERLL/LAITS). Interviewee: Virginie Royer. Interviewer: Nancy Guilloteau. Audio recording: Mike Heidenreich. Original video: 03_int_vi_prochain.mp4. Continuous audio from 0.00 to 12.01 seconds, extracted and converted to mono MP3. CC BY 3.0.
+Source: https://www.laits.utexas.edu/fi/fivideo/chapitre-03-interviews-les-fran%c3%a7ais-%c3%a0-austin-virginie-le-week-end-prochain/
+Audio license: https://creativecommons.org/licenses/by/3.0/
+
+— En France, où passez-vous les grandes vacances ?
+— En France, je passe les grandes vacances en Corse, près d’Ajaccio. On campe, on fait du camping près de la plage.
+— Est-ce que la Corse, c’est la… c’est votre région française préférée ?
+— Euh, non, en fait, ma région préférée, c’est la Touraine.
+— Pourquoi ?
+— C’est une région très, très calme, très verte, très fleurie. Il y a beaucoup de monuments historiques à voir, beaucoup de châteaux, et, euh, c’est juste une région qui est très relaxante.
+assets/voices/ut-stephanie-touraine.mp3
+Stéphanie compares two regions. Français interactif, by Karen Kelton, Nancy Guilloteau and Carl Blyth, University of Texas at Austin (COERLL/LAITS). Interviewee: Stéphanie Pellet. Interviewer: Carl Blyth. Audio recording: Mike Heidenreich. Original video: 03_int_st_vacances.mp4. Continuous audio from 14.00 to 49.08 seconds, extracted and converted to mono MP3. CC BY 3.0.
+Source: https://www.laits.utexas.edu/fi/fivideo/chapitre-03-interviews-les-fran%c3%a7ais-%c3%a0-austin-st%c3%a9phanie-les-vacances/
+Audio license: https://creativecommons.org/licenses/by/3.0/
+
+Le Corbeau et le Renard (complete)
+assets/voices/fox-full.mp3
+Le Corbeau et le Renard by Jean de La Fontaine. Performed by Laurie Willième for Thalie Envolée. Artistic direction by Julie Verleye, recording and mixing by Matthieu Van Dyck, production by Compagnie Artaban. Complete performance, converted to mono MP3. CC BY-SA 4.0.
+Original audio: https://commons.wikimedia.org/wiki/File:Jean_de_La_Fontaine_-_Le_Corbeau_et_le_Renard_-_Thalie_Envol%C3%A9e.wav
+Audio license: https://creativecommons.org/licenses/by-sa/4.0/
+French text: https://www.institutdefrance.fr/publications/le-corbeau-et-le-renard/
+
+Le Loup et l’Agneau (complete)
+assets/voices/lamb-full.mp3
+Le Loup et l’Agneau by Jean de La Fontaine. Performed by Julie Verleye for Thalie Envolée. Artistic direction by Arnaud Sottiaux, recording and mixing by Matthieu Van Dyck, production by Compagnie Artaban. Complete performance, converted to mono MP3. CC BY-SA 4.0.
+Original audio: https://commons.wikimedia.org/wiki/File:Jean_de_La_Fontaine_-_Le_Loup_et_l%E2%80%99Agneau_-_Thalie_Envol%C3%A9e.wav
+Audio license: https://creativecommons.org/licenses/by-sa/4.0/
+French text: https://www.institutdefrance.fr/publications/le-loup-et-lagneau/
+
