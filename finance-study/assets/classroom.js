@@ -316,7 +316,7 @@
   const importInput=$('[data-import]');
   $$('[data-export]').forEach(button=>button.addEventListener('click',()=>{
     const blob=new Blob([JSON.stringify(state,null,2)],{type:'application/json'}),url=URL.createObjectURL(blob);
-    const anchor=node('a');anchor.download='Meridian-learning-'+new Date().toISOString().slice(0,10)+'.json';anchor.href=url;document.body.append(anchor);anchor.click();anchor.remove();setTimeout(()=>URL.revokeObjectURL(url),1000);
+    const anchor=node('a');anchor.download='Finance-Classroom-learning-'+new Date().toISOString().slice(0,10)+'.json';anchor.href=url;document.body.append(anchor);anchor.click();anchor.remove();setTimeout(()=>URL.revokeObjectURL(url),1000);
   }));
   if(importInput)importInput.addEventListener('change',async()=>{
     const status=$('.import-status'),f=importInput.files[0];if(!f)return;
@@ -325,7 +325,7 @@
       const incoming=clean(JSON.parse(await f.text()));
       const persisted=update(s=>{Object.assign(s,merge(s,incoming));});paint();
       status.textContent=persisted?'Backup merged with this browser’s progress and drafts.':'Backup merged for this session. Browser storage is unavailable.';
-    }catch{status.textContent='This file could not be imported. Choose a valid Meridian progress backup.';}
+    }catch{status.textContent='This file could not be imported. Choose a valid finance classroom progress backup.';}
     importInput.value='';
   });
 })();
