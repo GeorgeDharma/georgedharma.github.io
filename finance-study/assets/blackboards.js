@@ -1,1 +1,0 @@
-window.MERIDIAN_BOARDS = ["merger-theories", "credit-rationing", "black-scholes", "three-statements", "capital-structure", "cash-flow-valuation", "portfolio-risk", "bank-runs", "currency-parity", "yield-curves", "event-studies", "leveraged-buyout"];
