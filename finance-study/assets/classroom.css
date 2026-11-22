@@ -47,11 +47,18 @@ button,a,summary{touch-action:manipulation}a:hover{text-decoration-color:var(--c
 .skip{position:fixed;z-index:10;top:-5rem;left:1rem;padding:.65rem 1.2rem;background:var(--white);border:2px solid var(--ink)}
 .skip:focus{top:.5rem}
 .sidebar{width:var(--side);position:fixed;inset:0 auto 0 0;display:flex;flex-direction:column;padding:28px 16px 18px;background:var(--paper);border-right:1px solid var(--border);z-index:5;overflow-y:auto}
-.brand-row{padding:0 6px 30px;border-bottom:1px solid var(--border)}
-.brand{display:inline-flex;align-items:center;gap:10px;text-decoration:none;color:var(--ink)}
-.brand-mark{width:42px;height:42px;flex:none;color:var(--copper)}.brand-words{display:grid;justify-items:start;line-height:1}
-.brand-words strong{font-family:var(--serif);font-size:2.23rem;font-weight:400;letter-spacing:-.065em;line-height:.97}
-.brand-words small{margin-top:5px;font-size:.69rem;letter-spacing:.105em;text-transform:uppercase;font-weight:700}
+.brand-row{padding:0 6px 24px;border-bottom:1px solid var(--border)}
+.brand {
+  display:inline-flex; flex-direction:column; align-items:flex-start; gap:8px;
+  max-width:100%; color:var(--ink); text-decoration:none;
+}
+.brand-wordmark {
+  display:block; width:clamp(126px,11.5vw,145px); max-width:100%; height:auto;
+}
+.brand-caption {
+  color:var(--copper-text); font-size:.75rem; font-weight:600; line-height:1.2;
+  letter-spacing:.105em; text-transform:uppercase; white-space:nowrap;
+}
 .sidebar nav{padding-top:1.3rem}.nav-group{margin-bottom:1.65rem}.nav-group>p{color:var(--muted);font-weight:700;text-transform:uppercase;font-size:.7rem;letter-spacing:.14em;margin:0 12px .55rem}
 .nav-item{display:flex;align-items:center;gap:.78rem;min-height:42px;color:var(--ink);font-size:.92rem;border-radius:5px;font-weight:600;text-decoration:none;padding:.57rem .8rem;margin:2px 0}
 .nav-item .ico{width:1.12rem;height:1.12rem}.nav-item:hover{background:var(--page-tint)}.nav-item.active{background:var(--copper-tint);color:var(--copper-text);box-shadow:inset 3px 0 var(--copper)}
@@ -152,7 +159,7 @@ fieldset{border:0;padding:0;margin:0;min-width:0}.quiz legend{width:100%;padding
 .search-results a:is(:hover,:focus) small{color:var(--slate-dark)}
 .dialog-foot{padding:11px 18px;background:var(--page-tint)}.toast{position:fixed;bottom:14px;right:16px;z-index:8;background:var(--ink);color:var(--white);border-radius:5px;font-size:.88rem;box-shadow:0 3px 15px rgb(36 43 51 / .19)}.toast:not(:empty){padding:8px 13px}
 @media(min-width:1600px){.hero-content{padding:44px}.hero{min-height:390px}.card-body h3{font-size:2rem}}
-@media(max-width:1120px){:root{--side:202px;--sidepad:1.65rem}.sidebar{padding-left:12px;padding-right:12px}.brand-row{padding-left:3px}.brand-mark{width:36px;height:36px}.brand-words strong{font-size:2.05rem}.hero h1{font-size:clamp(2.7rem,4.75vw,3.8rem)}.hero-content{width:67%;padding:26px}.hero p{font-size:.96rem}.learning-grid,.reading-grid{grid-template-columns:minmax(0,1fr) 220px}.cat-end{gap:7px}.metrics>div{padding:0 18px}.course-grid{gap:12px}.card-body{padding:13px}.card-foot{margin:0 13px}}
+@media(max-width:1120px){:root{--side:202px;--sidepad:1.65rem}.sidebar{padding-left:12px;padding-right:12px}.brand-row{padding-left:3px}.hero h1{font-size:clamp(2.7rem,4.75vw,3.8rem)}.hero-content{width:67%;padding:26px}.hero p{font-size:.96rem}.learning-grid,.reading-grid{grid-template-columns:minmax(0,1fr) 220px}.cat-end{gap:7px}.metrics>div{padding:0 18px}.course-grid{gap:12px}.card-body{padding:13px}.card-foot{margin:0 13px}}
 @media(max-width:900px){:root{--side:0px;--sidepad:1.4rem}.sidebar{width:253px;transform:translateX(-103%);transition:transform .2s}.nav-open .sidebar{transform:translateX(0);box-shadow:8px 0 30px rgb(36 43 51 / .19)}.side-dim{position:fixed;inset:0;background:rgb(36 43 51 / .36);z-index:4}.nav-open .side-dim{display:block}.brand-row{display:flex;align-items:center;justify-content:space-between}.mobile-toggle,.mobile-close{display:inline-flex;align-items:center;justify-content:center;min-width:37px;min-height:37px}.mobile-toggle{border:1px solid var(--border);background:var(--white)}.bar-content{min-height:56px;gap:13px}.hero-content{width:63%}.hero h1{font-size:clamp(2.7rem,6vw,4.2rem)}.hero{min-height:300px}.course-grid{gap:14px}.card-art{height:116px}.side-progress{margin-top:auto}.site-foot{padding:14px var(--sidepad)}}
 @media(max-width:730px){.reading-grid,.learning-grid{grid-template-columns:1fr}.lesson-rail{display:none}.mobile-lessons{display:block;margin-bottom:14px;border:1px solid var(--border);border-radius:5px;background:var(--page-tint)}.mobile-lessons .ico{width:16px;margin-right:6px}.mobile-lessons>div{padding:0 13px 11px}.course-rail{grid-template-columns:repeat(2,minmax(0,1fr))}.course-rail>section:first-child{grid-column:1/-1}.hero-content{width:69%}.hero h1{font-size:clamp(2.5rem,6.35vw,3.6rem)}.card-body h3{font-size:1.5rem}.card-body p{font-size:.88rem}.metrics{min-height:48px}.metrics>div{padding:0 12px}.model-grid{grid-template-columns:1fr}.model-card{display:grid;grid-template-columns:43px 1fr;gap:0 12px;padding:16px}.model-card .model-symbol{grid-row:1/4;margin:0}.model-card h3,.model-card p{grid-column:2}.doc-grid,.career-grid{grid-template-columns:1fr}}
 @media(max-width:580px){:root{--sidepad:1rem}.main{padding-top:1rem;padding-bottom:2.4rem}.topbar .search-trigger{padding:7px 9px}.search-trigger span,.search-trigger kbd{display:none}.bar-content{min-height:52px;gap:9px}.crumb ol{gap:5px;font-size:.8rem}.crumb li+li:before{margin-right:5px}
@@ -166,7 +173,6 @@ fieldset{border:0;padding:0;margin:0;min-width:0}.quiz legend{width:100%;padding
 @media(prefers-reduced-motion:reduce){html{scroll-behavior:auto}*,*::before,*::after{transition:none!important;animation:none!important}}
 @media print{.sidebar,.topbar,.site-foot,.actions,.lesson-rail,.mobile-lessons,.toast,.lesson-controls,.skip,dialog,.search-trigger,.side-dim{display:none!important}.main{padding:0;max-width:none}.shell{margin:0}.learning-grid,.reading-grid{display:block}.panel,.worked-box,.quiz{break-inside:avoid}.hero{min-height:auto}.quiz button,.notebook{display:none}}
 
-.brand-words small{white-space:nowrap}
 .lesson-gloss dt,.assessment-weights dt{font-weight:700;color:var(--ink)}
 .lesson-gloss dd,.assessment-weights dd{margin:3px 0 12px;color:var(--muted);font-size:.93rem}
 .assessment-weights{margin-top:14px}.assessment-weights dt b{color:var(--copper-text)}
